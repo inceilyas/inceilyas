@@ -12,7 +12,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="ilyas-ince" /></p>
 
 
--  I'm a fourth-year Computer Engineering student at Istanbul Technical University. I ranked 95th in Turkey on the 2021 YKS and TYT exams, and 452nd in the SAY (Mathematics + Science) field. I want to continuously improve myself and gain new experiences by working in areas that interest me in my dream career. I'm also currently working on machine learning to further develop my skills.
+-  I'm a fourth-year Computer Engineering student at Istanbul Technical University. I ranked 95th in Turkey on the 2021 YKS-TYT exams, and 452nd in the SAY (Mathematics + Science) field. I want to continuously improve myself and gain new experiences by working in areas that interest me in my dream career. I'm also currently working on machine learning to further develop my skills.
 
 -  How to reach me **mehmetilyasince1@gmail.com**
 
